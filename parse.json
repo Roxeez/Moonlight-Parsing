@@ -1,0 +1,10 @@
+{
+  "maps": "maps",
+  "lang": "lang",
+  "data": {
+    "item": "data/item",
+    "map": "data/map",
+    "skill": "data/skill",
+    "monster": "data/monster"
+  }
+}
